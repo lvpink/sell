@@ -187,7 +187,7 @@
       <updated>1580723746527</updated>
       <workItem from="1580723749008" duration="12395000" />
       <workItem from="1580755174758" duration="191000" />
-      <workItem from="1580798214144" duration="2803000" />
+      <workItem from="1580798214144" duration="3422000" />
     </task>
     <servers />
   </component>
@@ -251,10 +251,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="814" y="219" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580799598246" />
-    <state x="739" y="331" key="Vcs.Push.Dialog.v2" timestamp="1580800609378">
+    <state x="739" y="331" key="Vcs.Push.Dialog.v2" timestamp="1580801689955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="331" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580800609378" />
+    <state x="739" y="331" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580801689955" />
+    <state x="714" y="257" key="VcsDiffUtil.ChangesDialog" timestamp="1580801673108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="257" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580801673108" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1580723755472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
