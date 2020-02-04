@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="497633d0-5c14-4047-8420-e673cb3503b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\My_Project_file\javaToolInstall\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../javaToolInstall/maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIBUq8ZawEjASpjhtWQ3wfdgeW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imooc.sell.service.impl" />
+      <recent name="com.imooc.sell.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CategoryServiceImplTest.findAll">
+    <configuration name="CategoryServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.CategoryServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImplTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.CategoryServiceImplTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImplTest.findByCategoryTypeIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.CategoryServiceImplTest" />
+      <option name="METHOD_NAME" value="findByCategoryTypeIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImplTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.CategoryServiceImplTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImplTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sell.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.sell.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sell.service.impl.CategoryServiceImplTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.sell.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CategoryServiceImplTest.findAll" />
+        <item itemvalue="JUnit.CategoryServiceImplTest.findByCategoryTypeIn" />
+        <item itemvalue="JUnit.CategoryServiceImplTest" />
+        <item itemvalue="JUnit.CategoryServiceImplTest.save" />
+        <item itemvalue="JUnit.CategoryServiceImplTest.findById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497633d0-5c14-4047-8420-e673cb3503b6" name="Default Changelist" comment="" />
+      <created>1580723746527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580723746527</updated>
+      <workItem from="1580723749008" duration="12395000" />
+      <workItem from="1580755174758" duration="191000" />
+      <workItem from="1580798214144" duration="2803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1580753775537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580753775537" />
+    <state x="775" y="314" key="FileChooserDialogImpl" timestamp="1580800754106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="314" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580800754106" />
+    <state x="870" y="451" width="274" height="208" key="Github.ShareDialog" timestamp="1580800694790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="451" width="274" height="208" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580800694790" />
+    <state x="867" y="259" width="480" height="592" key="Github.UntrackedFilesDialog" timestamp="1580799883662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="867" y="259" width="480" height="592" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580799883662" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1580755368241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580755368241" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1580755368241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580755368241" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1580755368241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580755368241" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1580755368241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580755368241" />
+    <state width="1340" height="259" key="GridCell.Tab.1.bottom" timestamp="1580755109342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580755109342" />
+    <state width="1340" height="259" key="GridCell.Tab.1.center" timestamp="1580755109342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580755109342" />
+    <state width="1340" height="259" key="GridCell.Tab.1.left" timestamp="1580755109342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580755109342" />
+    <state width="1340" height="259" key="GridCell.Tab.1.right" timestamp="1580755109342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580755109342" />
+    <state x="520" y="191" key="Maven.ArtifactSearchDialog" timestamp="1580725528458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="191" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580725528458" />
+    <state x="814" y="219" key="SettingsEditor" timestamp="1580799598246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="219" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580799598246" />
+    <state x="739" y="331" key="Vcs.Push.Dialog.v2" timestamp="1580800609378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="331" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580800609378" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1580723755472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580723755472" />
+    <state x="870" y="502" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580754153590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="502" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580754153590" />
+    <state x="610" y="122" width="759" height="822" key="find.popup" timestamp="1580725228726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="610" y="122" width="759" height="822" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580725228726" />
+    <state x="653" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1580725386524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580725386524" />
+  </component>
+</project>

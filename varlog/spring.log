@@ -1,0 +1,44 @@
+2020-02-03 18:49:14.162  INFO 16388 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-T6Q90SL with PID 16388 (started by 武的赛 in C:\My_Project_file\workspaces\IdeaProjects\sell)
+2020-02-03 18:49:14.163  INFO 16388 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2020-02-03 18:49:14.983  INFO 16388 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-03 18:49:15.021  INFO 16388 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 JPA repository interfaces.
+2020-02-03 18:49:15.423  INFO 16388 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-03 18:49:15.630  INFO 16388 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-03 18:49:15.805  INFO 16388 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-03 18:49:15.861  INFO 16388 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-03 18:49:15.998  INFO 16388 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-03 18:49:16.168  INFO 16388 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-03 18:49:16.830  INFO 16388 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-02-03 18:49:17.081  INFO 16388 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-03 18:49:17.089  INFO 16388 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-03 18:49:17.374  WARN 16388 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-03 18:49:17.707  INFO 16388 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-03 18:49:18.123  INFO 16388 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 4.423 seconds (JVM running for 5.357)
+2020-02-03 18:49:18.207  INFO 16388 --- [main] com.imooc.sell.LoggerTest                : name:imooc,password:123
+2020-02-03 18:49:18.207 ERROR 16388 --- [main] com.imooc.sell.LoggerTest                : error
+2020-02-03 18:49:18.219  INFO 16388 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-03 18:49:18.220  INFO 16388 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-03 18:49:18.221  INFO 16388 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-03 18:49:18.230  INFO 16388 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-03 18:51:43.573  INFO 16288 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-T6Q90SL with PID 16288 (started by 武的赛 in C:\My_Project_file\workspaces\IdeaProjects\sell)
+2020-02-03 18:51:43.574  INFO 16288 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2020-02-03 18:51:44.506  INFO 16288 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-03 18:51:44.544  INFO 16288 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25ms. Found 0 JPA repository interfaces.
+2020-02-03 18:51:44.928  INFO 16288 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-03 18:51:45.148  INFO 16288 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-03 18:51:45.323  INFO 16288 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-03 18:51:45.381  INFO 16288 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-03 18:51:45.527  INFO 16288 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-03 18:51:45.705  INFO 16288 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-03 18:51:46.380  INFO 16288 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-02-03 18:51:46.627  INFO 16288 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-03 18:51:46.637  INFO 16288 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-03 18:51:46.962  WARN 16288 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-03 18:51:47.321  INFO 16288 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-03 18:51:47.770  INFO 16288 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 4.679 seconds (JVM running for 5.676)
+2020-02-03 18:51:47.845  INFO 16288 --- [main] com.imooc.sell.LoggerTest                : name:imooc,password:123
+2020-02-03 18:51:47.846 ERROR 16288 --- [main] com.imooc.sell.LoggerTest                : error
+2020-02-03 18:51:47.856  INFO 16288 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-03 18:51:47.857  INFO 16288 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-03 18:51:47.859  INFO 16288 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-03 18:51:47.868  INFO 16288 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
